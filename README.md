@@ -19,16 +19,16 @@ Here Load testing is performed using a random API (https://random-data-api.com/a
 
 ### Load Test Results
 
-- Test 1. 60 sec and 167 Users/Threads
+- **Test 1**. 60 sec and 167 Users/Threads
 ![Test_1](https://user-images.githubusercontent.com/40294642/193454423-7dd1fe08-ffd2-4a09-b48f-ca31d766aa3d.png)
 
-- Test 2. 300 sec and 833 Users/Threads
+- **Test 2**. 300 sec and 833 Users/Threads
 ![Test_2](https://user-images.githubusercontent.com/40294642/193454443-057e3dbb-73f7-4706-a03e-2863b86e4eb8.png)
 
-- Test 3. 600 sec and 1667 Users/Threads
+- **Test 3**. 600 sec and 1667 Users/Threads
 ![Test_3](https://user-images.githubusercontent.com/40294642/193454480-55b615a9-4933-4828-bdb1-67f1d38152a3.png)
 
-- Test 4. 900 sec and 2500 Users/Threads
+- **Test 4**. 900 sec and 2500 Users/Threads
 ![Test_4](https://user-images.githubusercontent.com/40294642/193454495-b3ba738e-2d6f-47ca-9801-706c5fad141a.png)
 
 - **HTML Summary Report**
