@@ -5,8 +5,8 @@
 Here Load testing is performed using a random API (https://random-data-api.com/api/v2/users) where the expected load is 120000 in 12 Hour. Several tests has been performed for 60s,300s,600s and 900s load using Jmeter to find out system Performance and Stability. 
 
 ## Challenges
-- Does Actual TPS(Transaction Per Second) meet the expected required TPS.
-- Finding out the Bottleneck/Stress test point of the system.
+1. Does Actual TPS(Transaction Per Second) meet the expected required TPS.
+2. Finding out the Bottleneck/Stress test point of the system.
 
 ## Pre-requisite
 1. Install jdk 8 or any LTS version
